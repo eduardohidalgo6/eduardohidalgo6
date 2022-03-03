@@ -1,0 +1,61 @@
+body{
+    background-color: cornflowerblue;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    
+    
+    }
+    
+    header{
+    color: rgb(0, 23, 100);
+    border: 1px solid black;
+    border-width: 50px;
+    padding: 20px 20px;
+    margin: 50px;
+    text-align: center;
+    }
+    
+    nav{
+        background-color:teal;
+        height: 50px;
+        border-bottom: 1px solid black;
+    }
+    
+    nav ul li{
+    
+    color: chartreuse;
+    float: left;
+    list-style: none;
+    margin: 10px;
+    line-height: 30px;
+    }
+    .clearfix{
+        clear: both;
+    }
+    .article{
+        float: left;
+        width: 80%;
+        min-height: 200px;
+        
+    }
+    
+    .article h2{
+        font: size 40px;
+        color: green;
+    }
+    .article p{
+        font-size: 25px;
+        color: white;
+    }
+    footer{
+        background-color: black;
+        color:white;
+        font-size:smaller;
+        text-align: center;
+        height: 100px;
+        line-height: 50px;
+    }
+    
+    
+    

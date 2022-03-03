@@ -1,0 +1,54 @@
+nav{ 
+  background-color: slategrey;
+  margin: 0%;
+  border: 0%;
+  height: 50px;
+}
+
+.nav-link{
+  color: white;
+  font-size: 20px;
+}
+
+.navbar-nav {
+  width: 100%;
+  text-align: end;
+}
+.navbar-nav, li {
+display: inline-block;
+border: 1px;
+
+}
+
+.card{
+  margin:0 auto;
+  float: none;
+  margin-bottom: 10px;
+
+}
+
+.nav-item {
+
+color: white;
+}
+
+.contacto{
+
+  background-color:slategrey;
+  color: white;
+  text-align: center;
+  
+}
+
+footer{
+
+  text-align: center;
+  background-color: white;
+  color:black;
+  font-size:smaller;
+}
+  
+h6 {
+  color: darkgrey;
+}
+
